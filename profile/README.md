@@ -20,7 +20,7 @@
 ---  
 
 <div align="center">  
-  <img src="https://www.devontechnologies.com/media/pages/press/archive/devonthink-30b2/26073828c8-1743674867/living_forests_annotation_light.jpg" width="1080"/>  
+  <img src="https://tidbits.com/uploads/2019/04/DEVONthink-3-screenshot.jpg" width="1080"/>  
 </div>  
 <br>  
 
